@@ -4,7 +4,7 @@ This repos contains the slides and content for my GopherCon 2022 talk, _Kraken W
 
 You can download the slides using the links below:
 
-- PPTX [here](./Kraken Wrangling for Dummies - Go Modules Dependency Management at Scale - GopherCon 2022.pptx)
-- PDF [here](./Kraken Wrangling for Dummies - Go Modules Dependency Management at Scale - GopherCon 2022.pdf)
+- PPTX [here](slides.pptx)
+- PDF [here](slides.pdf)
 
 The [project source](https://github.com/CrowdStrike/perseus) is on GitHub under CrowdStrike's organization.
